@@ -1,11 +1,13 @@
-## Hi there 👋
-
 <h1 align="center">👋 Hi, I'm Manoa</h1>
 <h3 align="center">Angular Developer | PEAN Stack | React Native Mobile Developer</h3>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ManoaRavelomananantsoa&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
+</p>
+
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
 💻 Angular Developer specialized in **PEAN Stack**  
 📱 Mobile developer using **React Native**  
@@ -53,4 +55,34 @@
 
 ---
 
-⭐ Always learning and building new projects.
+# 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ManoaRavelomananantsoa&show_icons=true&theme=tokyonight"/>
+</p>
+
+---
+
+# 🔥 Streak Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ManoaRavelomananantsoa&theme=tokyonight"/>
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ManoaRavelomananantsoa&theme=tokyo-night"/>
+</p>
+
+---
+
+# 🐍 Snake eating contributions
+
+![snake gif](https://github.com/ManoaRavelomananantsoa/ManoaRavelomananantsoa/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+⭐ Always building new projects and learning new technologies.
