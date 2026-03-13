@@ -1,0 +1,16 @@
+name: Snake Graph
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # tous les jours à minuit
+  workflow_dispatch:
+
+jobs:
+  snake:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate contribution graph
+        uses: Ashutosh00710/github-readme-activity-graph@main
+        with:
+          username: "ManoaRavelomananantsoa"  # ton nom GitHub
+          output: "output/github-contribution-grid-snake.svg"
