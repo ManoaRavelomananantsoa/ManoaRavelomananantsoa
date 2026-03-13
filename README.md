@@ -79,10 +79,13 @@
 
 ---
 
+
+
 # 🐍 Snake eating contributions
 
-![snake gif](https://github.com/ManoaRavelomananantsoa/ManoaRavelomananantsoa/blob/output/github-contribution-grid-snake.svg)
-
+<p align="center">
+  ![snake gif](https://github.com/ManoaRavelomananantsoa/ManoaRavelomananantsoa/raw/main/output/github-contribution-grid-snake.svg)
+</p>
 ---
 
 ⭐ Always building new projects and learning new technologies.
