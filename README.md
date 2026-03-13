@@ -1,16 +1,56 @@
 ## Hi there 👋
 
-<!--
-**ManoaRavelomananantsoa/ManoaRavelomananantsoa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">👋 Hi, I'm Manoa</h1>
+<h3 align="center">Angular Developer | PEAN Stack | React Native Mobile Developer</h3>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+💻 Angular Developer specialized in **PEAN Stack**  
+📱 Mobile developer using **React Native**  
+🎨 Passionate about **clean UI and smooth UX**
+
+---
+
+# 🧠 Main Stack
+
+![Angular](https://img.shields.io/badge/Angular-red?style=for-the-badge&logo=angular)
+![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge&logo=postgresql)
+
+---
+
+# 🎨 Frontend & UX/UI
+
+![HTML](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-blue?style=for-the-badge&logo=tailwindcss)
+![React Native](https://img.shields.io/badge/React%20Native-black?style=for-the-badge&logo=react)
+
+---
+
+# ⚙️ Backend & APIs
+
+![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
+
+---
+
+# 🗄 Database
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge&logo=postgresql)
+![SQLite](https://img.shields.io/badge/SQLite-lightgrey?style=for-the-badge&logo=sqlite)
+
+---
+
+# 🛠 Tools
+
+![VSCode](https://img.shields.io/badge/VS%20Code-blue?style=for-the-badge&logo=visualstudiocode)
+![VisualStudio](https://img.shields.io/badge/Visual%20Studio-purple?style=for-the-badge&logo=visualstudio)
+
+---
+
+⭐ Always learning and building new projects.
