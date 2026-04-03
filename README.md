@@ -55,7 +55,7 @@
 
 ---
 
-# 📊 GitHub Stats
+# GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ManoaRavelomananantsoa&show_icons=true&theme=tokyonight"/>
@@ -63,22 +63,22 @@
 
 ---
 
-# 🔥 Streak Stats
+#  Streak Stats
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ManoaRavelomananantsoa&theme=tokyonight"/>
 </p>
 
 ---
-# 📝 Most Used Languages
+#  Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManoaRavelomananantsoa&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManoaRavelomananantsoa&layout=compact&theme=tokyonight&langs_count=8"/>
 </p>
 
 ---
 
-# 📈 Contribution Graph
+#  Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ManoaRavelomananantsoa&theme=tokyo-night"/>
